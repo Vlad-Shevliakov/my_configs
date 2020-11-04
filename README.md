@@ -1,1 +1,1 @@
-### Here I keep various configs for my IDE
+### configs for my IDE
